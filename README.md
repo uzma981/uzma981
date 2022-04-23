@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in full stack development, but leaning towards backend 
 - 🌱 I’m currently learning C# and Unit testing
 - 💞️ I’m looking to collaborate on coding interview problems.
-- 📫 How to reach me https://www.linkedin.com/in/uzma-ahmed299/
+- 📫 How to reach me https://www.linkedin.com/in/uzma287/
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
